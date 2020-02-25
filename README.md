@@ -1,7 +1,7 @@
-# Best Practices for using ML in Scientific Applications
-
-Motivated by the vast amount of publications that propose ML methods for scientific applications, this guide aims at defining guidelines for developing, describing and evaluating these methods. It is meant to serve as a reference to both authors and referees.
-It is work in process and suggestions/comments are welcome.
+# Best Practices for using Machine Learning in Scientific Applications
+Machine Learning (ML) methods bear a huge potential for scientific applications. However, like every method they come with their pitfalls and drawbacks. It is therefore desirable to agree as a scientific community on certain requirements that an ML method has to fullfill in order to be useful (and safe) for a scientific application.  
+Motivated by the recently growing interest in using ML methods for scientific applications, this guide aims at defining guidelines for developing, describing and evaluating ML methods. It is meant to serve as a reference to both authors and referees.
+It is work in progress and everyone working in this or related fields is invited to suggest additions and modifications.
 
 - Reproducibility:   
   - Make your code public and provide instructions for reproducing your results.
@@ -10,7 +10,7 @@ It is work in process and suggestions/comments are welcome.
     - your training strategy.
     - parameter and architecture space you explored in order to find your best working model (how much fine tuning required)
 - Robustness/Stability:
-  - Show that the model still performs its task reliably under distributional shifts. (= if the test data is slightly different to the training data) or argue why this is not an issue in your specific application.
+  - Show that the model still performs its task reliably under distributional shifts/ adversarial attacks. (= if the test data is slightly different to the training data) or argue why this is not an issue in your specific application.
 - Uncertainty Estimates/ Biases:
   - Quantify the uncertainty of your model prediction. 
   - Show that your uncertainty estimates are reliable.
