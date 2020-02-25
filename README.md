@@ -3,6 +3,8 @@ Machine Learning (ML) methods bear a huge potential for scientific applications.
 Motivated by the recently growing interest in using ML methods for scientific applications, this guide aims at defining guidelines for developing, describing and evaluating ML methods. It is meant to serve as a reference to both authors and referees.
 It is work in progress and everyone working in this or related fields is invited to suggest additions and edits.
 
+
+### To write a great ML for science paper, consider the following criteria:
 - Reproducibility:   
   - Make your code public and provide instructions for reproducing your results.
   - Clearly describe 
