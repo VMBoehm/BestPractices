@@ -5,9 +5,10 @@ It is work in process and suggestions/comments are welcome.
 
 - Reproducibility:   
   - Make your code public and provide instructions for reproducing your results.
-  - Clearly describe any kind of preprocessing you apply to the data.
-  - your training strategy.
-  - parameter and architecture space you explored in order to find your best working model (how much fine tuning required)
+  - Clearly describe 
+    - any kind of preprocessing you apply to the data.
+    - your training strategy.
+    - parameter and architecture space you explored in order to find your best working model (how much fine tuning required)
 - Robustness/Stability:
   - Show that the model still performs its task reliably under distributional shifts. (= if the test data is slightly different to the training data) or argue why this is not an issue in your specific application.
 - Uncertainty Estimates/ Biases:
@@ -21,7 +22,7 @@ It is work in process and suggestions/comments are welcome.
   - Comment on how flexible your model is. Does it need to be retrained for slightly different problem statements?
   - Is your work more than just a proof of concept? 
     - State how far is it from the current state of your work to application to real data?
-     - Is it feasible to bridge this gap in the near future?
+    - Is it feasible to bridge this gap in the near future?
   - Are you using the ML method to replace something that we can already model optimally?
     - If so, state why it is still favorable to use the ML method? (a reason could be computational efficiency) 
     - Could you have used a model in a more targeted fashion? 
