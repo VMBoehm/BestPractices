@@ -1,7 +1,7 @@
 # Best Practices for using Machine Learning in Scientific Applications
 Machine Learning (ML) methods bear a huge potential for scientific applications. However, like every method they come with their pitfalls and drawbacks. It is therefore desirable to agree as a scientific community on certain requirements that an ML method has to fullfill in order to be useful (and safe) for a scientific application.  
 Motivated by the recently growing interest in using ML methods for scientific applications, this guide aims at defining guidelines for developing, describing and evaluating ML methods. It is meant to serve as a reference to both authors and referees.
-It is work in progress and everyone working in this or related fields is invited to suggest additions and modifications.
+It is work in progress and everyone working in this or related fields is invited to suggest additions and edits.
 
 - Reproducibility:   
   - Make your code public and provide instructions for reproducing your results.
