@@ -23,7 +23,7 @@ It is work in progress and everyone working in this or related fields is invited
   - Don’t just claim the advantages. Show them.
   - Comment on how flexible your model is. Does it need to be retrained for slightly different problem statements?
   - Is your work more than just a proof of concept? 
-    - State how far is it from the current state of your work to application to real data?
+    - State how far it is from the current state of your work to application to real data.
     - Is it feasible to bridge this gap in the near future?
   - Are you using the ML method to replace something that we can already model optimally?
     - If so, state why it is still favorable to use the ML method? (a reason could be computational efficiency) 
