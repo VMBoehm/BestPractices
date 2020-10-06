@@ -27,5 +27,5 @@ It is work in progress and everyone working in this or related fields is invited
     - Is it feasible to bridge this gap in the near future?
   - Are you using the ML method to replace something that we can already model optimally?
     - If so, state why it is still favorable to use the ML method? (a reason could be computational efficiency) 
-    - Could you have used a model in a more targeted fashion? 
+    - Could you have used your ML model in a more targeted fashion (e.g. by only using it for parts that you cannot model analytically)? 
 
